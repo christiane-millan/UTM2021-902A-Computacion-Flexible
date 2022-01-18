@@ -10,4 +10,6 @@ Contenido del curso **Computación Flexible**
 - [Unidad 2. Adaline](https://github.com/christiane-millan/UTM2021-902A-Computacion-Flexible/tree/main/Adaline)
 - [Unidad 3. Perceptrón](https://github.com/christiane-millan/UTM2021-902A-Computacion-Flexible/tree/main/Perceptron)
 - [Unidad 4. Retropropagación](https://github.com/christiane-millan/UTM2021-902A-Computacion-Flexible/tree/main/MLPerceptron)
-- [Unidad 5. Rede de Kohonen]
+- [Unidad 5. Rede de Kohonen](https://github.com/christiane-millan/UTM2021-902A-Computacion-Flexible/tree/main/SOM)
+- [Unidad 6 -10. Lógica difusa]():qw!
+
